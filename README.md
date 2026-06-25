@@ -103,7 +103,6 @@ Visualize:
 - Model implementation
 - Growth visualization
 - Recovery experiment
-- Analysis report
 
 ---
 
@@ -191,8 +190,6 @@ The objective is to study emergent behavior using only local interaction rules. 
 - Obstacle simulation
 - Predator-prey simulation
 - Information propagation simulation
-- Zombie evacuation simulator
-- Reflection report 4
 
 ---
 
